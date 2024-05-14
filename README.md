@@ -5,7 +5,7 @@
 - [Qwik GitHub](https://github.com/QwikDev/qwik)
 - [@QwikDev](https://twitter.com/QwikDev)
 - [Vite](https://vitejs.dev/)
-- Test
+
 ---
 
 ## Project Structure
